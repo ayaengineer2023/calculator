@@ -1,4 +1,4 @@
-package com.bouznari.calculator;
+package com.bouznari.Calculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
