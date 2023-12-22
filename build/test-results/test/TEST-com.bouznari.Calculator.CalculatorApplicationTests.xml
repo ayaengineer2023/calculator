@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bouznari.Calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-22T07:54:32" hostname="pc-HP-ProBook-440-G8-Notebook-PC" time="0.661">
+<testsuite name="com.bouznari.Calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-22T08:39:04" hostname="pc-HP-ProBook-440-G8-Notebook-PC" time="0.818">
   <properties/>
-  <testcase name="contextLoads()" classname="com.bouznari.Calculator.CalculatorApplicationTests" time="0.661"/>
-  <system-out><![CDATA[08:54:31.357 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.bouznari.Calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-08:54:31.480 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.bouznari.Calculator.CalculatorApplication for test class com.bouznari.Calculator.CalculatorApplicationTests
+  <testcase name="contextLoads()" classname="com.bouznari.Calculator.CalculatorApplicationTests" time="0.818"/>
+  <system-out><![CDATA[09:39:02.034 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.bouznari.Calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:39:02.200 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.bouznari.Calculator.CalculatorApplication for test class com.bouznari.Calculator.CalculatorApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -13,9 +13,9 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v3.1.6)
 
-2023-12-22T08:54:31.871+01:00  INFO 42232 --- [    Test worker] c.b.C.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.9 with PID 42232 (started by pc in /home/pc/Bureau/calculator)
-2023-12-22T08:54:31.872+01:00  INFO 42232 --- [    Test worker] c.b.C.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
-2023-12-22T08:54:32.882+01:00  INFO 42232 --- [    Test worker] c.b.C.CalculatorApplicationTests         : Started CalculatorApplicationTests in 1.239 seconds (process running for 2.434)
+2023-12-22T09:39:02.795+01:00  INFO 60235 --- [    Test worker] c.b.C.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.9 with PID 60235 (started by pc in /home/pc/Bureau/calculator)
+2023-12-22T09:39:02.797+01:00  INFO 60235 --- [    Test worker] c.b.C.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-12-22T09:39:04.204+01:00  INFO 60235 --- [    Test worker] c.b.C.CalculatorApplicationTests         : Started CalculatorApplicationTests in 1.802 seconds (process running for 3.39)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
